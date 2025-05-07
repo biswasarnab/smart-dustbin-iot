@@ -25,4 +25,7 @@ Hello! I am Arnab, a 18Y/O High School Student, I made this during my summer vac
     <li>Order all the IoT Parts from <a href="https://www.flyrobo.in/?srsltid=AfmBOoqH5mlvPRNkApC_xZbEOhbSFT6sPlx6xUgf-8e0zz4_WrBJZzga">flyrobo.in</a>
 </ol>
 
+## Photos & Videos
+Will be updated soon! 
+<br><br><br>
 Thank You! <3
