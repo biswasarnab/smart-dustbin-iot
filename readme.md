@@ -26,6 +26,6 @@ Hello! I am Arnab, a 18Y/O High School Student, I made this during my summer vac
 </ol>
 
 ## Photos & Videos
-Will be updated soon! 
+<a href="https://youtu.be/jHgLbJLmG4Q?si=2rQSlTZ51nq693iY">Watch this video</a>
 <br><br><br>
 Thank You! <3
